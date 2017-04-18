@@ -1,3 +1,2 @@
 # hello-world
-My first
-A love for code
+A love for algorithmic coding
